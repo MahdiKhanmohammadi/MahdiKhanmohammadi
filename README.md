@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Mahdi Khanmohammadi
 
 ### Backend Developer | Python • Django • DRF
@@ -89,13 +93,7 @@ https://github.com/MahdiKhanmohammadi/django_simple_blog
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiKhanmohammadi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiKhanmohammadi&layout=compact&theme=tokyonight)
-
----
 
 ## 🛠 Technologies
 
