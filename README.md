@@ -108,6 +108,7 @@ https://github.com/MahdiKhanmohammadi/django_simple_blog
 ## 📫 Contact
 
 - GitHub: https://github.com/MahdiKhanmohammadi
+- Email: i.mahdikhanmohammadi@gmail.com
 
 ---
 
